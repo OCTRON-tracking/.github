@@ -11,5 +11,5 @@ Main repository: [OCTRON-GUI](https://github.com/OCTRON-tracking/OCTRON-GUI)
 
 If you find this project helpful, consider supporting us:
 
-- [GitHub Sponsors](https://github.com/sponsors/horsto)
+- [GitHub Sponsors](https://github.com/sponsors/OCTRON-tracking)
 - [Buy Me a Coffee](https://buymeacoffee.com/octron)
