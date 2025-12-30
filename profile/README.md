@@ -7,6 +7,9 @@ OCTRON is built on [Napari](https://www.napari.org), [Segment Anything (SAM2)](h
 
 Main repository: [OCTRON-GUI](https://github.com/OCTRON-tracking/OCTRON-GUI)
 
+### Documentation 
+All documentation can be found under [OCTRON-docs on github pages](https://octron-tracking.github.io/OCTRON-docs/).
+
 ### Support
 
 If you find this project helpful, consider supporting us:
